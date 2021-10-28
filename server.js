@@ -36,7 +36,8 @@ let server = createServer({
       fromLuigi: trait({
         name: "Luigi Cruz",
         username: "luigircruz",
-        avatarUrl: "http://twivatar.glitch.me/luigircruz",
+        avatarUrl:
+          "https://gravatar.com/avatar/fa95cee551ddd0186ccdecae4721a891?s=400&d=robohash&r=x",
       }),
     }),
   },

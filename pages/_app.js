@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
         >
           <img
             className="rounded-full w-7 h-7"
-            src="http://twivatar.glitch.me/samselikoff"
+            src="https://gravatar.com/avatar/fa95cee551ddd0186ccdecae4721a891?s=400&d=robohash&r=x"
             alt=""
           />
           <p className="pl-px text-lg font-extrabold ml-7">
